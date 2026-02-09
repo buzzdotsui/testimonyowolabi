@@ -41,7 +41,6 @@ const projects: Project[] = [
     tags: ['React', 'Dashboard', 'Data Viz'],
     imageUrl: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f',
     githubUrl: 'https://github.com/buzzdotsui/Infra-UI',
-    demoUrl: 'https://testytech.netlify.app/',
     featured: false
   }
 ];
